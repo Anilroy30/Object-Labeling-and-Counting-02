@@ -35,19 +35,19 @@ Python 3.11 or later.
 ### Install Required Libraries
 pip install numpy opencv-python matplotlib scikit-image
 
-text
+
 
 ## How to Run
 
 1. Clone or download this repository and navigate to the folder:
 cd project-2
 
-text
+
 
 2. Run the script:
 python object_label_count.py
 
-text
+
 
 3. Output:
 - The script will create a window showing the original binary image and the labeled (color) image.
@@ -62,7 +62,7 @@ project-2/
 ├── output_labeling.png # Saved output image showing labeled objects
 └── README.md # Project instructions
 
-text
+
 
 ## Output Example
 
